@@ -48,7 +48,8 @@ java Main
 
 ### Screenshot Running Java
 
-![Hasil Running Java](images/java-running.png)
+<img width="1366" height="728" alt="image - 2026-09-18T002817 850" src="https://github.com/user-attachments/assets/0b8b6812-301a-4034-840c-8d8ab8127bdd" />
+
 
 Pada hasil running terlihat rekap nilai tiga mahasiswa, yaitu Ani Lestari, Budi Santoso, dan Citra Wijaya. Program juga menolak nilai tugas `150.0` karena nilai harus berada di antara `0.0` sampai `100.0`, serta menolak data dengan NIM kosong.
 
@@ -77,7 +78,8 @@ php Main.php
 
 ### Screenshot Running PHP
 
-![Hasil Running PHP](images/php-running.png)
+<img width="1366" height="728" alt="image - 2026-09-18T003049 994" src="https://github.com/user-attachments/assets/789b49b3-6595-42d6-93ba-0daf14054a17" />
+
 
 Pada hasil running terlihat rekap nilai mahasiswa dan validasi data. Program menolak nilai tugas `150` karena berada di luar rentang nilai `0–100`, serta menolak data karena NIM tidak boleh kosong.
 
