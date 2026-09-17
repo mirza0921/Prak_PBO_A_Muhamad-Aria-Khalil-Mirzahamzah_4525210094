@@ -50,7 +50,8 @@ java Main
 
 ## Screenshot Running Java
 
-![Hasil Running Java](images/java-running.png)
+<img width="1366" height="728" alt="image - 2026-09-18T010538 649" src="https://github.com/user-attachments/assets/500d25c6-2984-482f-9e84-9044daa531e3" />
+
 
 ### Penjelasan Hasil
 
@@ -83,7 +84,8 @@ php main.php
 
 ## Screenshot Running PHP
 
-![Hasil Running PHP](images/php-running.png)
+<img width="1366" height="728" alt="image - 2026-09-18T010607 535" src="https://github.com/user-attachments/assets/557b1153-e210-448d-9bda-2c282beccc63" />
+
 
 ### Penjelasan Hasil
 
